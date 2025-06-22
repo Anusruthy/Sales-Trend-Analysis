@@ -27,7 +27,8 @@ It includes fictional order information from an electronics store and contains f
   - Allow dynamic filtering by product and month
     
 ### A cleaned sample of the dataset is available in this repo:
-[📎 Download Cleaned CSV](https://raw.githubusercontent.com/Anusruthy/Sales-Trend-Analysis/refs/heads/main/cleaned_sales_data.csv)
+[📎 Download Cleaned CSV](https://raw.githubusercontent.com/Anusruthy/Sales-Trend-Analysis/main/cleaned_sales_data.csv)
+
 
 ## Features
 
