@@ -32,7 +32,7 @@ It includes fictional order information from an electronics store and contains f
 
 ## Features
 
-- Upload cleaned CSV sales data
+- Uploaded cleaned CSV sales data
 - Interactive line chart for sales over time
 -  Key Metrics:
   - Total Sales
@@ -50,7 +50,7 @@ It includes fictional order information from an electronics store and contains f
 ## How to Use ?
 
 1. Clone this repo or open it in Streamlit Cloud.
-2. Upload your cleaned sales CSV file.
+2. The cleaned csv file will get uploaded automatically.
 3. Use the sidebar to filter the data.
 4. Explore KPIs and visualizations.
 
