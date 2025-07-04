@@ -2,7 +2,7 @@
 
 An interactive dashboard built using **Streamlit**, **Plotly**, **Pandas**, and **Docker** to visualize and analyze sales trends over time.
 
----
+
 
 ## Project Overview
 
@@ -14,7 +14,7 @@ This project demonstrates the power of interactive dashboards in sales analytics
 - Filter sales by **product** and **month**
 - Visualize key metrics using interactive charts
 
----
+
 
 ## About the Dataset
 
@@ -34,7 +34,7 @@ It includes fictional order information from an electronics store with fields li
 
 📎 [**Download Cleaned CSV**](https://raw.githubusercontent.com/Anusruthy/Sales-Trend-Analysis/main/cleaned_sales_data.csv)
 
----
+
 
 ## Features
 
@@ -46,7 +46,7 @@ It includes fictional order information from an electronics store with fields li
 - Sidebar filters by product and month  
 - Auto-loads cleaned CSV — no manual upload needed
 
----
+
 
 ## Technologies Used
 
@@ -57,13 +57,13 @@ It includes fictional order information from an electronics store with fields li
 - Docker
 - Docker Compose
 
----
+
 
 ## Live App
 
 👉 [Click to Open Streamlit App](https://anusruthy-sales-trend-analysis-sale-trend-view-r7xy0b.streamlit.app/)
 
----
+
 
 ## Run Locally with Docker
 
@@ -84,7 +84,7 @@ docker run -p 8501:8501 anusruthy/streamlit-app
 ```
 - Then go to the localhost page.
 
----
+
 
 ### Run with Docker Compose
 ```bash
@@ -106,10 +106,11 @@ docker-compose down
 - Dashboard: Created with Streamlit + Plotly charts and filtering options.
 - Deployment: Containerized with Docker and deployed via Docker Compose.
 
----
+
 
 ### Author
 Anusruthy R
+
 anusruthyraju@gmail.com
 
 
